@@ -1,5 +1,7 @@
 # SimpleChat
 A spigot plugin - Simple way of controlling your global chat!
+Version: 1.15
+Tested on: 1.15, 1.16
 
 This plugin was created to assist people with controlling their global server chat.
 
